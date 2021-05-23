@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
  Hello. My name is Kim Jeongwon and I'm Junior developer.
-  I've been studying Computer Science since 2017. I double majored in Division of Knowledge & Information and Department of Computer Engineering. I have project experience using Java(My most confident language), HTML, kotlin, c/c++ languages. I’m currently learning Python for machine learning.
+  I've been studying Computer Science since 2017. I double majored in 'Division of Knowledge & Information' and 'Department of Computer Engineering'. I have project experience using Java(My most confident language), HTML, kotlin, c/c++ languages. I’m currently learning Python for machine learning.
 
 ### Languages
 ![java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-green0?logo=Java&logoColor=white) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-blue?logo=c&logoColor=white) ![Python](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-green?logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-blue?logo=kotlin&logoColor=white)
